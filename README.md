@@ -1,6 +1,8 @@
-# myfoods
+# MyFoods
 
-A new Flutter project.
+Une Application Mobile developpé par Ikando Ryan Arthur, et Designé par Steve Ngaï, deux jeunes entrepreneurs Camerounais. Elle est concu specialement pour repondre à vos besoins nutritionnels, c’est afin  de vous offrir le pouvoir de la bonne information sur tout ceux qui concerne les meilleurs restaurants de la Ville de Douala.
+
+La nourriture c’est la base.
 
 ## Getting Started
 
