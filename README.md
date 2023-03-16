@@ -5,4 +5,8 @@ Une Application Mobile developpé par Ikando Ryan, et Designé par Steve Ngaï, 
 La nourriture c’est la base.
 
 
+
 ![MyFood-Page06](https://user-images.githubusercontent.com/86264705/225684231-8a3d1b98-3ec6-4341-8107-81971b71f168.png)
+
+
+![MyFood-Page07](https://user-images.githubusercontent.com/86264705/225684535-d161adbc-f4f5-48dc-937b-90802bbc4c2e.png)
