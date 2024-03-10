@@ -1,6 +1,8 @@
 # MyFoods
 
-Une Application Mobile developpé par Ikando Ryan, et Designé par Steve Ngaï, deux jeunes entrepreneurs Camerounais. Elle est concu specialement pour repondre à vos besoins nutritionnels, c’est afin  de vous offrir le pouvoir de la bonne information sur tout ceux qui concerne les meilleurs restaurants de la Ville de Douala.
+[FR] Une Application Mobile developpé par Ikando Ryan, et Designé par Steve Ngaï, deux jeunes entrepreneurs Camerounais. Elle est concu specialement pour repondre à vos besoins nutritionnels, c’est afin  de vous offrir le pouvoir de la bonne information sur tout ceux qui concerne les meilleurs restaurants de la Ville de Douala.
+
+[EN] A Mobile Application developed by Ikando Ryan, and designed by Steve Ngaï, two young Cameroonian entrepreneurs. Specially designed to meet your nutritional needs, it's designed to give you the power of good information about the best restaurants in Douala.
 
 La nourriture c’est la base.
 
